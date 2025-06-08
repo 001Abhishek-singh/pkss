@@ -1,2 +1,2 @@
 # PKS_Corporate-
-This is my first freelancing project. 
+This is my freelancing project. 
